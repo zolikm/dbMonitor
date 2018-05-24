@@ -1,0 +1,14 @@
+# binaries
+*.class
+
+# gradle files
+.gradle
+
+# directories
+/bin
+/build
+/target
+
+.classpath
+.project
+.settings
